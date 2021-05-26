@@ -1,0 +1,7 @@
+allegro-mapping
+Random files I used to learn a bit more about Allegro's image manipulation techniques
+
+Future plans for the repo:
+alm_bin.c - making binary files that represent game maps, and loading them into alm
+alm_plr.c - adding a player with proper collision
+alm_chn.c - adding a chunk system for larger maps so there's less to render
